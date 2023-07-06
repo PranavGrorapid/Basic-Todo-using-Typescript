@@ -1,0 +1,35 @@
+.todo{
+
+   text-align: center;
+   margin-top: 200px;
+}
+
+.todoForm{
+
+   width: 100%;
+}
+
+.todoInput{
+
+   height: 50px;
+   width: 30%;
+   margin-right: 20px;
+   border-radius: 50px;
+   border:2px solid grey
+   
+
+
+     
+}
+
+
+.todoForm button{
+
+  height: 50px;
+  width: 7%;
+  background-color: green;
+  color: white;
+  border-radius: 30px;
+  border: none;
+  
+}
